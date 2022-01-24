@@ -1,0 +1,2 @@
+OLED_ENABLE = no
+AUTO_SHIFT_ENABLE = yes
