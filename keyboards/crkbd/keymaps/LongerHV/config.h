@@ -30,4 +30,5 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 #define TAPPING_TERM 100
 
 #define AUTO_SHIFT_TIMEOUT 135
+#define BOTH_SHIFTS_TURNS_ON_CAPS_WORD
 #define OLED_FONT_H "keyboards/crkbd/lib/glcdfont.c"
